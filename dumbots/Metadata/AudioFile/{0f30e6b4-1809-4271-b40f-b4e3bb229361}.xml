@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0f30e6b4-1809-4271-b40f-b4e3bb229361}">
+		<property name="assetPath">
+			<value>test vst things.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>52.535708333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a4a047a8-bb89-4516-a51f-cfa9611d5d6e}</destination>
+		</relationship>
+	</object>
+</objects>
