@@ -33,5 +33,5 @@ Classe :
 	Dégâts de base = 6
 	Nombre de déplacement = 2
 	Portée d'attaque = 6
-	Précision de base = 75%
+	Précision de base = 66%
 	Première compétence : Se met en mode tourelle ou en mode normal. Le mode tourelle l'empêche de se déplacer mais donne 2 de portée supplémentaires.
