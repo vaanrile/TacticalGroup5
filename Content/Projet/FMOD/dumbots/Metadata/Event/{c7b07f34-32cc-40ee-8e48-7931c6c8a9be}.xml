@@ -8,7 +8,7 @@
 			<value>A_Charge</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{db2663a9-359a-4d40-88cc-1b972c5b9cb2}</destination>
@@ -121,7 +121,6 @@
 	<object class="MixerBusEffectChain" id="{dba7e51b-ca18-48fe-9926-1ced1ca98ee3}">
 		<relationship name="effects">
 			<destination>{a44544c6-8d0b-4697-9969-f2b757697dc8}</destination>
-			<destination>{aa983319-dd23-45d2-bc98-873bcd3a51a4}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{778e427d-8ba2-4090-a69e-c5969a41101c}" />
@@ -138,6 +137,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{c98b6cac-9b80-456e-b538-971a5cefffa0}" />
 	<object class="MixerBusFader" id="{a44544c6-8d0b-4697-9969-f2b757697dc8}" />
-	<object class="SpatialiserEffect" id="{aa983319-dd23-45d2-bc98-873bcd3a51a4}" />
 	<object class="MixerBusFader" id="{87abbaa2-5e54-41b8-8ab9-b2726d0b9707}" />
 </objects>
