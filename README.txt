@@ -35,3 +35,6 @@ Classe :
 	Portée d'attaque = 6
 	Précision de base = 66%
 	Première compétence : Se met en mode tourelle ou en mode normal. Le mode tourelle l'empêche de se déplacer mais donne 2 de portée supplémentaires.
+
+Quand on monte ou descend d'une case on prend 0,5 de mouvement en plus (cela implique aussi pour passer les tuyaux).
+Pour attaquer un ennemi en mode d'attaque il suffit de cliquer sur l'ennemi qui est à la portée de la zone d'attaque.
