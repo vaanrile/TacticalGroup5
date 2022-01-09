@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{8bb361a6-02e4-48eb-810c-a416987205a5}">
+		<property name="name">
+			<value>CutOff</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fc449190-b043-42bd-b0a0-cb5afa9dc22d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{d8fa79c7-96c1-4ab8-8d78-7d05d70af8ff}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{d8fa79c7-96c1-4ab8-8d78-7d05d70af8ff}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
