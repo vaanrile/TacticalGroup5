@@ -95,7 +95,7 @@
 	</object>
 	<object class="MultiSound" id="{6d3cc154-3bf4-4710-bea3-1231f64caf1b}">
 		<relationship name="sounds">
-			<destination>{7d44bc7e-4faf-4211-be04-ceb77105de4b}</destination>
+			<destination>{80f0bcc6-346b-4f81-8411-53afdd29b247}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{080e3e72-f593-4226-b601-d997ab64bca8}">
@@ -124,9 +124,9 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{01621ce6-cf8f-4a2e-9dfd-1e33517de933}" />
-	<object class="SingleSound" id="{7d44bc7e-4faf-4211-be04-ceb77105de4b}">
+	<object class="SingleSound" id="{80f0bcc6-346b-4f81-8411-53afdd29b247}">
 		<relationship name="audioFile">
-			<destination>{399b4ec2-dcd5-4335-938a-6fd248c45c83}</destination>
+			<destination>{cfa360e9-0d25-4fe1-bacd-95b19ea3af43}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{a0ebdd36-5595-4622-b7de-9a53ab46757b}" />
