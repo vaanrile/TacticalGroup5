@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{cd5c6d9b-d448-434e-ae8c-e7fd86ef2b57}">
+		<property name="name">
+			<value>MoveCutOff</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fc449190-b043-42bd-b0a0-cb5afa9dc22d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2003c3fd-a76c-4636-aee5-f81fb7891d60}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2003c3fd-a76c-4636-aee5-f81fb7891d60}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
