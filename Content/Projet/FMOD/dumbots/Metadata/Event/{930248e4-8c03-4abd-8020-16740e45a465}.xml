@@ -5,7 +5,7 @@
 			<value>Yellow</value>
 		</property>
 		<property name="name">
-			<value>UI_TeamTurn</value>
+			<value>UI_Switch</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
