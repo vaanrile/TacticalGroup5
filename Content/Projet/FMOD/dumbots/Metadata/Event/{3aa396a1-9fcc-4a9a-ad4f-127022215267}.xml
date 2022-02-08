@@ -128,9 +128,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{66c17665-dd79-48f7-a672-6cd30d283312}" />
 	<object class="MultiSound" id="{98c0ed29-ff6c-4f17-b14e-7a8c0afa99fa}">
-		<property name="looping">
-			<value>true</value>
-		</property>
 		<property name="playlistMode">
 			<value>1</value>
 		</property>
